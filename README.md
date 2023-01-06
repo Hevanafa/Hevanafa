@@ -57,6 +57,7 @@ I'm confident in a few programming languages.
 
 I have some experience in the other programming languages as well:
 
+- Rust (currently learning)
 - C# (for prototyping & small desktop apps)
 - JavaScript & TypeScript
 - Perl (for text file processing & quick scripting)
@@ -64,7 +65,7 @@ I have some experience in the other programming languages as well:
 - Lua
 - Python 3
 - PHP
-- MySQL
+- DBMS: MySQL, Sqlite, Postgres
 
 Only for hobby:
 
@@ -73,13 +74,14 @@ Only for hobby:
 - Java (from MIDP)
 - Clojure
 
-I have used these JavaScript frameworks to make office projects:
+I have used these JavaScript frameworks to make projects in the company that I'm working:
 
 - React.js (more than 4 years of experience)
 - Socket IO
 - Node.js
 - Vue.js (only for a few months)
 - Phaser 3
+- Svelte
 
 🎨 I can draw character illustrations as well, which you can browse on:
 
