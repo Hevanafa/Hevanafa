@@ -8,41 +8,39 @@ I usually spend time in CodinGame when I'm free.
 
 # Personal Projects
 
-## Number Sorter
+## 2022
+
+- Basic Thai IME
+
+- Aksara Jawa converter
+
+- Thai Clock
+
+## 2021
+
+- Number Sorter
 
 This is the game that I hope can be finished any time soon.
 
-## Tip Tap
+- Tip Tap
 
-This was a failed game project.
+A game project in Unity
 
-The reason is the lack of initiative.
+- YouTube & BiliBili Thumbnail Downloader
 
-## Aksara Jawa converter
+Initially made this with Perl, rewritten in Ruby.
 
-## Thai Clock
+## Uncategorised by year
 
-## Bahasa Panda
-
-## Scrabble Calculator
-
-## Fancy To-Do List
-
-## Random Minecraft Banner Generator (Prototype)
-
-## Minecraft Enchantment Generator
-
-## Succubus & Goblins
-
-## e621 Downloader
-
-## Danbooru Downloader
-
-## YouTube & BiliBili Thumbnail Downloader
-
-I made this with Perl.
-
-## Indexed Bitmap Image Viewer in C
+- Bahasa Panda
+- Scrabble Calculator
+- Fancy To-Do List
+- Random Minecraft Banner Generator (Prototype)
+- Minecraft Enchantment Generator
+- Succubus & Goblins
+- e621 Downloader
+- Danbooru Downloader
+- Indexed Bitmap Image Viewer in C
 
 # Programming Languages
 
@@ -68,6 +66,7 @@ I have some experience in the other programming languages as well:
 - Java & Kotlin for Minecraft modding (Java 10+)
 - Java MIDP (Java 1.4)
 - DBMS: MySQL, Sqlite, Postgres
+- C++
 
 Only for hobby:
 
