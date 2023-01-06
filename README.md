@@ -65,6 +65,8 @@ I have some experience in the other programming languages as well:
 - Lua
 - Python 3
 - PHP
+- Java & Kotlin for Minecraft modding (Java 10+)
+- Java MIDP (Java 1.4)
 - DBMS: MySQL, Sqlite, Postgres
 
 Only for hobby:
