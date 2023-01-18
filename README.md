@@ -2,13 +2,21 @@ Hi, I’m @Hevanafa
 
 I'm interested in learning computer science & exploring algorithms.
 
+Currently I'm learning Rust and would love to learn more about web dev stacks.
+
 I work as a full-time frontend web developer in real life.
 
 I usually spend time in CodinGame when I'm free.
 
+Visit my tutorials website: https://hevanafaslime.com
+
 # Personal Projects
 
 ## 2022
+
+- Word Unscrambler
+
+A letter unscrambler for word games like Spellspire, Alphabear, Scrabble, Word Battle (Android) and general word games that use scrambled letters to make a word.
 
 - Basic Thai IME
 
