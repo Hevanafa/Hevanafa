@@ -16,15 +16,15 @@ My website: https://hevanafaslime.com
 
 ## 2022
 
-- Word Unscrambler
-
-A letter unscrambler for word games like Spellspire, Alphabear, Scrabble, Word Battle (Android) and general word games that use scrambled letters to make a word.
-
 - Basic Thai IME
 
 - Aksara Jawa converter
 
-- Thai Clock
+- Thai Clock (anime)
+
+- Thai Clock (Kitana)
+
+- Fallout HUD mod for Minecraft 1.18.2
 
 ## 2021
 
@@ -42,8 +42,13 @@ Initially made this with Perl, rewritten in Ruby.
 
 ## 2020
 
-- Anime 15 Puzzle
+- Spellbook (Word Unscrambler)
 
+A utility program to unscramble letters for word games such as Spellspire, Alphabear, Scrabble, Word Battle (Android), and general word games that use scrambled letters to make a word.
+
+![Spellbook](./spellbook_preview.png)
+
+- Anime 15 Puzzle
 
 ![anime 15 puzzle](./anime_15_puzzle.png)
 
