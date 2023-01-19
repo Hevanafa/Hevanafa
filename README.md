@@ -4,11 +4,13 @@ I'm interested in learning computer science & exploring algorithms.
 
 Currently I'm learning Rust and would love to learn more about web dev stacks.
 
-I work as a full-time frontend web developer in real life.
+I work as a full-time frontend web developer in a multinational company.
 
 I usually spend time in CodinGame when I'm free.
 
-Visit my tutorials website: https://hevanafaslime.com
+CodePen: https://codepen.io/hevanafa/
+
+My website: https://hevanafaslime.com
 
 # Personal Projects
 
@@ -37,6 +39,21 @@ A game project in Unity
 - YouTube & BiliBili Thumbnail Downloader
 
 Initially made this with Perl, rewritten in Ruby.
+
+## 2020
+
+- Anime 15 Puzzle
+
+![anime 15 puzzle]("anime 15 puzzle.png")
+
+[Play](https://codepen.io/hevanafa/pen/MWjoaVj)
+
+- Classic 15 Puzzle
+
+![classic 15 puzzle]("classic 15 puzzle.png")
+
+[Play](https://codepen.io/hevanafa/pen/jOMmxKY)
+
 
 ## Uncategorised by year
 
