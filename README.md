@@ -87,20 +87,20 @@ I'm confident in a few programming languages.
 I have some experience in the other programming languages as well:
 
 - Rust (currently learning)
-- C# (for prototyping & small desktop apps)
+- C# (for prototyping, games & desktop apps)
 - JavaScript & TypeScript
 - Perl (for text file processing & quick scripting)
-- Ruby (for file management)
-- Lua
-- Python 3
+- Ruby (for file management & prototyping)
+- Lua (for Roblox)
 - PHP
 - Java & Kotlin for Minecraft modding (Java 10+)
 - Java MIDP (Java 1.4)
 - DBMS: MySQL, Sqlite, Postgres
-- C++
 
 Only for hobby:
 
+- C++
+- Python 3
 - C (Turbo C)
 - VB .Net
 - Java (from MIDP)
