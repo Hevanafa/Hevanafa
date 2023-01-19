@@ -45,13 +45,13 @@ Initially made this with Perl, rewritten in Ruby.
 - Anime 15 Puzzle
 
 
-![anime 15 puzzle](anime 15 puzzle.png)
+![anime 15 puzzle](./anime_15_puzzle.png)
 
 [Play](https://codepen.io/hevanafa/pen/MWjoaVj)
 
 - Classic 15 Puzzle
 
-![classic 15 puzzle](classic 15 puzzle.png)
+![classic 15 puzzle](./classic_15_puzzle.png)
 
 [Play](https://codepen.io/hevanafa/pen/jOMmxKY)
 
