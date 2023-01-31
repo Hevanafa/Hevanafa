@@ -8,6 +8,8 @@ I work as a full-time frontend web developer in a multinational company.
 
 I usually spend time in CodinGame when I'm free.
 
+![](./codingame.png)
+
 CodePen: https://codepen.io/hevanafa/
 
 My website: https://hevanafaslime.com
