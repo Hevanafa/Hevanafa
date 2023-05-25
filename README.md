@@ -125,6 +125,8 @@ I have used these frameworks to make projects in the company that I'm working:
 
 JavaScript & TypeScript:
 
+[![JS & TypeScript](https://github-readme-tech-stack.vercel.app/api/cards?lineCount=1&line1=react,react,auto;socketio,socket%20.io,auto;nodejs,node.js,auto;deno,deno,auto;vue,vue.js,auto;phaser,phaser%203,auto;svelte,Svelte,auto;printer,Node%20thermal%20printer,auto;)
+
 - React.js (more than 5 years of experience)
 - Socket IO
 - Node.js
@@ -135,6 +137,7 @@ JavaScript & TypeScript:
 - Node thermal printer for Kiosk Thermal Printer 80mm
 
 Rust:
+[![Rust](https://github-readme-tech-stack.vercel.app/api/cards?lineCount=1&line2=rust,tauri,auto;rust,actix%20web,auto;)
 
 - Tauri
 - Actix.io
