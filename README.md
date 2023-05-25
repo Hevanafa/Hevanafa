@@ -14,9 +14,17 @@ I usually spend time in CodinGame when I'm free.
 
 CodePen: https://codepen.io/hevanafa/
 
-My website: https://hevanafaslime.com
+My website (contains mostly Rust & QBasic tutorials): https://hevanafaslime.com
 
 # Personal Projects
+
+## 2023
+
+- Roblox Anti-AFK
+
+- The Sewer is the Fastest Way to go to School! (WIP)
+
+A game made entirely with QBasic 4.5 code built with VBDOS 1.0 IDE.
 
 ## 2022
 
