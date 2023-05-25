@@ -18,7 +18,16 @@ My website (contains mostly Rust & QBasic tutorials): https://hevanafaslime.com
 
 # My Tech Stack 🌐
 
-[![My Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?lineCount=1&line1=rust,Rust,auto;csharp,C#,auto;vb-net,VB%20.Net,auto;javascript,javascript,auto;perl,perl,auto;ruby,ruby,auto;lua,lua,auto;typescript,typescript,auto;)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+
+# Programming Languages
+
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+[VB .Net]
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
+
 
 # Personal Projects
 
