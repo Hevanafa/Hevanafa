@@ -16,6 +16,10 @@ CodePen: https://codepen.io/hevanafa/
 
 My website (contains mostly Rust & QBasic tutorials): https://hevanafaslime.com
 
+# My Tech Stack 🌐
+
+[![My Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?lineCount=1&line1=rust,Rust,auto;csharp,C#,auto;vb-net,VB%20.Net,auto;javascript,javascript,auto;perl,perl,auto;ruby,ruby,auto;lua,lua,auto;typescript,typescript,auto;)
+
 # Personal Projects
 
 ## 2023
