@@ -1,5 +1,7 @@
 Hi, I’m @Hevanafa
 
+[![](https://visitcount.itsvg.in/api?id=Hevanafa&label=Page%20Views&color=7&icon=4&pretty=false)](https://visitcount.itsvg.in)
+
 I'm interested in learning computer science & exploring algorithms.
 
 Currently I'm learning Rust and would love to learn more about web dev stacks.
