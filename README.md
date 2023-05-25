@@ -99,7 +99,7 @@ I'm confident in a few programming languages.
 I have some experience in the other programming languages as well:
 
 - Rust (currently learning)
-- C# (for prototyping, games & desktop apps)
+- C# & VB .Net (for prototyping, games & desktop apps)
 - JavaScript & TypeScript
 - Perl (for text file processing & quick scripting)
 - Ruby (for file management & prototyping)
@@ -114,18 +114,26 @@ Only for hobby:
 - C++
 - Python 3
 - C (Turbo C)
-- VB .Net
-- Java (from MIDP)
+- Java (MIDP 2.0)
 - Clojure
 
-I have used these JavaScript frameworks to make projects in the company that I'm working:
+I have used these frameworks to make projects in the company that I'm working:
 
-- React.js (more than 4 years of experience)
+JavaScript & TypeScript:
+
+- React.js (more than 5 years of experience)
 - Socket IO
 - Node.js
+- Deno
 - Vue.js (only for a few months)
 - Phaser 3
 - Svelte
+- Node thermal printer for Kiosk Thermal Printer 80mm
+
+Rust:
+
+- Tauri
+- Actix.io
 
 🎨 I can draw character illustrations as well, which you can browse on:
 
