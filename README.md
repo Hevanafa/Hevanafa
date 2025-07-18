@@ -6,7 +6,7 @@ I'm a full-time frontend web dev working in a multinational company.
 
 I'm interested in learning computer science & exploring algorithms.
 
-Currently I'm learning Rust and would love to learn more about web dev stacks.
+Currently I'm playing around with old tech stacks (maybe ancient) just for fun
 
 I usually spend time in CodinGame when I'm free.
 
@@ -14,13 +14,13 @@ I usually spend time in CodinGame when I'm free.
 
 CodePen: https://codepen.io/hevanafa/
 
-My website (contains mostly Rust & QBasic tutorials): https://hevanafaslime.com
+🌐: https://hevanafaslime.com
 
 # My Tech Stack 🌐
 
 ## Currently Learning
 
-![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+QB64 and Pascal for game dev stuff
 
 ## Intermediate Experience
 
@@ -34,6 +34,7 @@ My website (contains mostly Rust & QBasic tutorials): https://hevanafaslime.com
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 
 - **.NET**: C# & Visual Basic .NET
 - **Java**: both modern Java & Java MIDP 2.0
@@ -95,7 +96,7 @@ For file management & prototyping:
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
 
-I have more than 5 years of experience in React TypeScript to build business apps & games.
+I have more than 6 years of experience in React TypeScript to build business apps & games.
 
 Extras:
 
